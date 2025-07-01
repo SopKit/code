@@ -37,7 +37,7 @@ export default function JSONPrettyPrintPage() {
 
     try {
       const result = formatJSON(input);
-      if (result.isValid && result.data) {
+      if (result.success && result.data) {
         setOutput(result.data);
         setError("");
         setIsValid(true);
