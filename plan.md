@@ -29,8 +29,8 @@
 
 ## ✅ JSON Tools (Priority 1)
 - [x] JSON Formatter
-- [ ] JSON Validator
-- [ ] JSON Editor
+- [x] JSON Validator
+- [x] JSON Editor
 - [ ] JSON Pretty Print
 - [ ] JSON Viewer
 - [ ] JSON Parser

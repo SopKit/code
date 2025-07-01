@@ -50,6 +50,14 @@ export const TOOL_CATEGORIES: ToolCategory[] = [
         keywords: ['json', 'edit', 'editor', 'syntax', 'highlighting']
       },
       {
+        id: 'json-pretty-print',
+        name: 'JSON Pretty Print',
+        description: 'Transform compact JSON into beautifully formatted code',
+        category: 'json',
+        path: '/tools/json/pretty-print',
+        keywords: ['json', 'pretty', 'print', 'format', 'beautify', 'readable']
+      },
+      {
         id: 'json-minifier',
         name: 'JSON Minifier',
         description: 'Compress JSON by removing whitespace and formatting',

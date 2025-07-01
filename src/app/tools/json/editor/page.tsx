@@ -394,6 +394,7 @@ export default function JSONEditorPage() {
               </CardHeader>
               <CardContent>
                 <CodeEditor
+                  title="JSON Input"
                   value={input}
                   onChange={setInput}
                   language="json"
@@ -443,6 +444,7 @@ export default function JSONEditorPage() {
               <CardContent>
                 {parsedData ? (
                   <CodeEditor
+                    title="JSON Preview"
                     value={JSON.stringify(parsedData, null, 2)}
                     onChange={() => {}}
                     language="json"
