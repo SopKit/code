@@ -31,6 +31,8 @@
 - [x] JSON Formatter
 - [x] JSON Validator
 - [x] JSON Editor
+- [x] JSON Pretty Print
+- [x] JSON Viewer
 - [ ] JSON Pretty Print
 - [ ] JSON Viewer
 - [ ] JSON Parser
