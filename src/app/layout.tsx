@@ -87,6 +87,8 @@ export default function RootLayout({
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link rel="search" type="application/opensearchdescription+xml" title={SITE_CONFIG.name} href="/opensearch.xml" />
+        <link rel="alternate" type="application/rss+xml" title={`${SITE_CONFIG.name} RSS Feed`} href="/feed.xml" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
