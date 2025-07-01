@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     description: "Professional online JSON editor with syntax highlighting, error detection, and real-time validation.",
   },
   alternates: {
-    canonical: "/tools/json/editor",
+    canonical: "https://sopkit.github.io/code/tools/json/editor",
   },
 };
 

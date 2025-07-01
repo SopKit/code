@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     title: 'JSON Validator - Free Online JSON Syntax Checker',
     description: 'Validate JSON syntax online for free. Check for JSON errors and syntax issues with real-time validation.',
     type: 'website',
-    url: 'https://jsontools.dev/tools/json/validator',
+    url: 'https://sopkit.github.io/code/tools/json/validator',
   },
   twitter: {
     card: 'summary_large_image',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     description: 'Validate JSON syntax online for free. Check for JSON errors and syntax issues with real-time validation.',
   },
   alternates: {
-    canonical: 'https://jsontools.dev/tools/json/validator',
+    canonical: 'https://sopkit.github.io/code/tools/json/validator',
   },
   robots: {
     index: true,

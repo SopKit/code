@@ -1,13 +1,13 @@
 export const SITE_CONFIG = {
-  name: 'JSONTools.dev',
+  name: 'SopKit Code Tools',
   description: 'Free online JSON, XML, YAML, HTML tools and converters. Format, validate, convert, and manipulate data with our comprehensive collection of developer tools.',
-  url: 'https://jsontools.dev',
-  ogImage: 'https://jsontools.dev/og.jpg',
+  url: 'https://sopkit.github.io/code',
+  ogImage: 'https://sopkit.github.io/code/og.jpg',
   author: {
-    name: 'JSONTools.dev',
-    url: 'https://jsontools.dev',
+    name: 'SopKit',
+    url: 'https://sopkit.github.io/code',
   },
-  creator: '@jsontools',
+  creator: '@sopkit',
   keywords: [
     'JSON formatter',
     'JSON validator',
@@ -21,8 +21,8 @@ export const SITE_CONFIG = {
     'free tools'
   ],
   social: {
-    twitter: '@jsontools',
-    github: 'https://github.com/jsontools/jsontools',
+    twitter: '@sopkit',
+    github: 'https://github.com/SopKit/code',
   }
 } as const;
 

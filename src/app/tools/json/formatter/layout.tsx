@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     title: 'JSON Formatter - Free Online JSON Pretty Print Tool',
     description: 'Format and prettify JSON data online. Free JSON formatter with syntax validation and error highlighting.',
     type: 'website',
-    url: 'https://jsontools.dev/tools/json/formatter',
+    url: 'https://sopkit.github.io/code/tools/json/formatter',
   },
   twitter: {
     card: 'summary_large_image',
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     description: 'Format and prettify JSON data online. Free JSON formatter with syntax validation and error highlighting.',
   },
   alternates: {
-    canonical: 'https://jsontools.dev/tools/json/formatter',
+    canonical: 'https://sopkit.github.io/code/tools/json/formatter',
   },
   robots: {
     index: true,

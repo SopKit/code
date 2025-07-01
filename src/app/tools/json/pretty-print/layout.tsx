@@ -36,11 +36,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'JSON Pretty Print - Free Online JSON Beautifier Tool',
     description: 'Transform compact JSON into beautifully formatted, human-readable code with proper indentation and spacing.',
-    url: 'https://jsontools.dev/tools/json/pretty-print',
-    siteName: 'JSON Tools',
+    url: 'https://sopkit.github.io/code/tools/json/pretty-print',
+    siteName: 'SopKit Code Tools',
     images: [
       {
-        url: 'https://jsontools.dev/og-image.jpg',
+        url: 'https://sopkit.github.io/code/og-image.jpg',
         width: 1200,
         height: 630,
       },
@@ -52,10 +52,10 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'JSON Pretty Print - Free Online JSON Beautifier Tool',
     description: 'Transform compact JSON into beautifully formatted, human-readable code.',
-    images: ['https://jsontools.dev/og-image.jpg'],
+    images: ['https://sopkit.github.io/code/og-image.jpg'],
   },
   alternates: {
-    canonical: 'https://jsontools.dev/tools/json/pretty-print',
+    canonical: 'https://sopkit.github.io/code/tools/json/pretty-print',
   },
 };
 

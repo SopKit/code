@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/private/', '/admin/'],
     },
-    sitemap: 'https://jsontools.dev/sitemap.xml',
+    sitemap: 'https://sopkit.github.io/code/sitemap.xml',
   };
 }
