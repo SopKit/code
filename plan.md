@@ -33,6 +33,7 @@
 - [x] JSON Editor
 - [x] JSON Pretty Print
 - [x] JSON Viewer
+- [x] JSON Minifier
 - [ ] JSON Pretty Print
 - [ ] JSON Viewer
 - [ ] JSON Parser
